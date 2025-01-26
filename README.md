@@ -11,6 +11,6 @@
 - Database: Sqlite3, MySQL
 
 Here you can contact me
-kiranraveendran50@gmail.com
-https://www.linkedin.com/in/kiran-r-a8b181246/
-https://leetcode.com/u/kiran_raveendran/
+- kiranraveendran50@gmail.com
+- https://www.linkedin.com/in/kiran-r-a8b181246/
+- https://leetcode.com/u/kiran_raveendran/
